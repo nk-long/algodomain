@@ -1,0 +1,12 @@
+{
+    "category":"Electronic",
+    "productType":"Mobile",
+    "name":"Samsung S22",
+    "ramSize":12,
+    "processor":"SD888",
+    "displaySize":"6.5",
+    "weight":150,
+    "price":70000,
+    "color":"black",
+    "sellerId":12345
+}
